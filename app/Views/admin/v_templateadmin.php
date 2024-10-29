@@ -85,7 +85,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <!-- Brand Logo -->
             <a href="#" class="brand-link">
                 <img src="<?= base_url('AdminLTE') ?>/dist/img/puskes.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-                <span class="brand-text font-weight-light">Puskesmas Panggung</span>
+                <span class="brand-text font-weight-light">BPS TALA</span>
             </a>
 
             <!-- Sidebar -->
@@ -208,7 +208,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 Politeknik Negeri Tanah Laut
             </div>
             <!-- Default to the left -->
-            <strong>Copyright &copy; 2023-2024 <a href="#">GANA Website</a>.</strong> All rights reserved.
+            <strong>Copyright &copy; 2023-2024 <a href="#">AR Website</a>.</strong> All rights reserved.
         </footer>
     </div>
     <!-- ./wrapper -->
