@@ -104,7 +104,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                             <li class="nav-item">
                                 <a href="<?= base_url('/profilweb') ?>" class="nav-link <?= $menu == 'profilweb' ? 'active' : '' ?>">
                                     <i class="nav-icon fas fa-solid fa-newspaper"></i>
-                                    <p>Profil Puskesmas</p>
+                                    <p>Profil RISDA</p>
                                 </a>
                             </li>
                             <li class="nav-item">
